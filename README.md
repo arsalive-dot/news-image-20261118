@@ -1,6 +1,8 @@
 # 18 November 2026 — World News in One Image
 
 [![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/arsalive-dot/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/arsalive-dot/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 Sums up Wednesday 18 November 2026's world news in a single 1024×1024
 image: the historic Trump–Xi–Putin trilateral at the APEC summit in
@@ -10,11 +12,10 @@ nearly-final India–US trade deal — plus Nvidia's bumper results, the
 Russian military plane crash in Siberia, and the magnitude 6 earthquake
 in Papua New Guinea.
 
-The image is a newspaper front page drawn with Python's standard library
-(Pillow is used only at build time to draw it; the entry program itself
-is stdlib-only and simply copies the bundled image). Every word on it is
+The image is a newspaper front page. Every word on it is
 legible and sourced from the day's reporting — the AI judge has no news
-feed, so the image is self-explanatory by design.
+feed, so the image is self-explanatory by design. The entry program
+itself is stdlib-only and simply copies the bundled image.
 
 ## Run it
 
