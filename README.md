@@ -22,7 +22,7 @@ feed, so the image is self-explanatory by design.
 MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-Writes `out/entry.png` (1024×1024 PNG, ~117 KB). Deterministic: two
+Writes `out/entry.png` (1024×1024 PNG, ~208 KB). Deterministic: two
 runs produce byte-identical output.
 
 ---
